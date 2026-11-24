@@ -1,0 +1,13 @@
+package com.example.projectmanagementplatform;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProjectManagementPlatformApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ProjectManagementPlatformApplication.class, args);
+    }
+
+}
